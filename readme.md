@@ -10,7 +10,7 @@ Welcome to the "Survey of Language Faults," a project meticulously crafted by a 
 
 ### Objective
 
-The primary aim of this project is to assist developers by highlighting common pitfalls and baffling language features, fostering a deeper understanding of each language's idiosyncrasies. By doing so, we aspire to enhance the developer's ability to write robust and efficient code while appreciating the unique characteristics of each language.
+The primary objective of this research is to systematically assist developers by elucidating common pitfalls and perplexing features inherent in popular programming languages. This study aims to foster a comprehensive understanding of the unique idiosyncrasies and complexities of each language, thereby enhancing developers' capability to write both robust and efficient code. By highlighting these language-specific challenges, this research aspires to improve developers' proficiency and appreciation of the distinct characteristics that each language offers, ultimately contributing to more effective and nuanced programming practices.
 
 ### Methodology
 
