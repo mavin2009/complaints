@@ -1,6 +1,6 @@
 # Survey of Language Faults
 
-### A Rigorous Study on the Idiosyncrasies and Pitfalls of Popular Programming Languages
+### A Study on the Idiosyncrasies and Pitfalls of Popular Programming Languages
 
 ---
 
